@@ -8,7 +8,7 @@ Just another web chat demo using websocket technology.
 
 ## Backend
 
-Built using [Go](https://go.dev/) with [Fiber](https://gofiber.io/) as the web framework
+Built using [Go](https://go.dev/) with [Fiber](https://gofiber.io/) as the web framework.
 
 ### Run Development
 
@@ -21,7 +21,7 @@ The frontend is already built in the `/static` folder. After run the backend, ju
 
 ## Frontend
 
-Built using [Quasar Framework](https://quasar.dev/)
+Built using [Quasar Framework](https://quasar.dev/).
 
 ### Run Development
 
